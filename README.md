@@ -8,6 +8,9 @@
 | Radja Apprilla | 123140084 |
 | Gohan Tua Jeremia Ambarita | 123140160 |
 
+## Gemini API Key
+https://aistudio.google.com
+
 ## Fitur Aplikasi
 
 - **Share Buku** - Pengguna dapat membagikan informasi buku seperti: judul, penulis, genre, deskripsi dan cover buku.
@@ -21,7 +24,7 @@
 
 Aplikasi ini berprinsip **Clean Architecture + MVVM**
 
-### Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -35,6 +38,27 @@ Aplikasi ini berprinsip **Clean Architecture + MVVM**
 | **AI** | Google Gemini API |
 | **Testing** | Kotlin Test, Turbine |
 
+## Screenshoot APK
+### Login
+![Login](img/login.jpeg)
+
+### Regis
+![Regis](img/regis.jpeg)
+
+### Home
+![Home](img/home.jpeg)
+
+### Detail
+![Detail](img/detail.jpeg)
+
+### Read
+![Read](img/read.jpeg)
+
+### Forum
+![Forum](img/forum.jpeg)
+
+## LINK YouTube:
+https://youtu.be/NsNTsOFqH74?si=LuZnVKsiIwjRXxUG
 
 ## 👨‍🏫 Dosen Pengampu
 ### Pak Habib
