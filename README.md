@@ -40,22 +40,22 @@ Aplikasi ini berprinsip **Clean Architecture + MVVM**
 
 ## Screenshoot APK
 ### Login
-![Login](img/login.jpeg)
+![Login](docs/login.jpeg)
 
 ### Regis
-![Regis](img/regis.jpeg)
+![Regis](docs/regis.jpeg)
 
 ### Home
-![Home](img/home.jpeg)
+![Home](docs/home.jpeg)
 
 ### Detail
-![Detail](img/detail.jpeg)
+![Detail](docs/detail.jpeg)
 
 ### Read
-![Read](img/read.jpeg)
+![Read](docs/read.jpeg)
 
 ### Forum
-![Forum](img/forum.jpeg)
+![Forum](docs/forum.jpeg)
 
 ## LINK YouTube:
 https://youtu.be/NsNTsOFqH74?si=LuZnVKsiIwjRXxUG
